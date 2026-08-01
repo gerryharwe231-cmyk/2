@@ -1,0 +1,10 @@
+0.9.24.1 static verification
+
+PASS: empty ComponentAtlas constructor does not access segments[0]
+PASS: empty/delayed-NBT arc ribbon returns before mesh compilation
+PASS: TOP/BOTTOM/LEFT/RIGHT share one longitudinal progress and integer cycle count
+PASS: no periodicCorrection or smooth-step UV shear remains
+PASS: endpoint caps retain cross-section local coordinates
+PASS: all existing geometry, dimension, endpoint, railing and Mixin guards pass
+PASS: JSON and Java structure checks pass
+PASS: parser-level Java syntax check passes

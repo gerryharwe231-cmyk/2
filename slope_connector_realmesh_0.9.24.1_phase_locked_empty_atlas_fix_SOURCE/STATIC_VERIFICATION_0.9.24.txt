@@ -1,0 +1,15 @@
+0.9.24 static verification
+
+PASS - JSON resources parse
+PASS - Java source delimiter/parse-level checks
+PASS - bundled 0.9.17 and 0.9.19 API checks
+PASS - Mixin package isolation checks
+PASS - centreline UV fields are not used by the replacement renderer
+PASS - old UnifiedSurfaceArcRenderer source removed
+PASS - four-corner offset-surface length interpolation present
+PASS - native start/end virtual-cell phase tests
+PASS - endpoint periodic correction bounded to half a tile
+PASS - long-face fractional fallback removed from active renderer
+PASS - global first/last section flags encoded
+PASS - localized endpoint ornament rejection present
+PASS - endpoint overlap removed and native connection clearance present
